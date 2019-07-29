@@ -20,14 +20,14 @@ Warriors are characterized by the following attributes:
     o Number of weapons
   
 The program begins by offering you a first menu in which you can:
-   Create a Warrior (1): for this, he will ask for the appropriate information (Name, level
+  o Create a Warrior (1): for this, he will ask for the appropriate information (Name, level
       of life and Force of attack) to create this character, with the input via reading of the entries
       keyboard (Scanner class), Warrior information. (In this version, the Warriors
       will be stored in an array of Warriors).
-   List all existing Warriors (2)
-   Choose a Warrior (3) to add a Weapon or to display it. To ask for it
+  o List all existing Warriors (2)
+  o Choose a Warrior (3) to add a Weapon or to display it. To ask for it
       entering the Warrior number (table index.
-   Exit the program (0) (otherwise we loop on the menu)
+  o Exit the program (0) (otherwise we loop on the menu)
   
 ## Dungeons-and-Dragons_V2
 
@@ -58,12 +58,12 @@ In this version, Warriors and Magicians will be stored in a collection of Charac
 Warrior) and spells will be stored in an ArrayList (which will be an attribute of the Wizard)
 
 The program begins by offering you a first menu in which you can:
-   Create a character (1): for that, he will ask what type of character you want
+  o Create a character (1): for that, he will ask what type of character you want
      create (Warrior or Magician), then ask you for the proper information to create this
     character (name, standard of living and attack strength for Warriors, and name, level of
     life, attacking force and philtre for the Magicians), with the input via reading of the entries
     keyboard (Scanner class), character information (Warrior or Wizard).
-   List all existing Characters (Warriors and Magicians) (2)
-   Choose a Character (3), to add either a Weapon or a Spell, or to display it.
+  o List all existing Characters (Warriors and Magicians) (2)
+  o Choose a Character (3), to add either a Weapon or a Spell, or to display it.
     To do this, enter the number of the Character (index in the ArrayList).
-   Exit the program (0) (otherwise we loop on the menu)
+  o Exit the program (0) (otherwise we loop on the menu)
