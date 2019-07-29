@@ -1,0 +1,5 @@
+com\levakov\product\dto\Product.class
+com\levakov\product\bo\ProductBOImpl.class
+com\levakov\product\dao\ProductDAOImpl.class
+com\levakov\product\bo\ProductBO.class
+com\levakov\product\dao\ProductDAO.class
